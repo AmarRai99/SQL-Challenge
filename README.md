@@ -37,7 +37,9 @@ Hint: To avoid errors, be sure to import the data in the same order that the tab
 Once you have a complete database, perform these steps:
 
 
-List the following details of each employee: employee number, last name, first name, sex, and salary.
+Q1. List the following details of each employee: employee number, last name, first name, sex, and salary.
+
+![image](https://user-images.githubusercontent.com/111756299/211089425-29cf0aca-13ba-4276-a56d-5bbd603a7803.png)
 
 
 List first name, last name, and hire date for employees who were hired in 1986.
