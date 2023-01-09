@@ -12,6 +12,8 @@ This assignment is divided into three parts: data modeling, data engineering, an
 # Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 
+The ERD Tables can be found in the SQL-Challenges images folder. 
+
 # Data Engineering
 
 
