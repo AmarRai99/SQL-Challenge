@@ -42,7 +42,10 @@ Q1. List the following details of each employee: employee number, last name, fir
 ![image](https://user-images.githubusercontent.com/111756299/211089425-29cf0aca-13ba-4276-a56d-5bbd603a7803.png)
 
 
-List first name, last name, and hire date for employees who were hired in 1986.
+Q2. List first name, last name, and hire date for employees who were hired in 1986.
+
+![image](https://user-images.githubusercontent.com/111756299/211349621-51244cbe-40b4-4e77-a398-6e0c56a37889.png)
+
 
 
 List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
