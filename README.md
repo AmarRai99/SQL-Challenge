@@ -39,29 +39,16 @@ Once you have a complete database, perform these steps:
 
 Q1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
-![image](https://user-images.githubusercontent.com/111756299/211089425-29cf0aca-13ba-4276-a56d-5bbd603a7803.png)
-
-
 Q2. List first name, last name, and hire date for employees who were hired in 1986.
 
-![image](https://user-images.githubusercontent.com/111756299/211351329-817ccd97-7c67-426a-a232-5b269ff7672a.png)
+Q3. List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
+Q4. List the department of each employee with the following information: employee number, last name, first name, and department name.
 
+Q5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
+Q6. List all employees in the Sales department, including their employee number, last name, first name, and department name.
 
-List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+Q7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-
-List the department of each employee with the following information: employee number, last name, first name, and department name.
-
-
-List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
-
-
-List all employees in the Sales department, including their employee number, last name, first name, and department name.
-
-
-List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
-
-
-List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
+Q8. List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
