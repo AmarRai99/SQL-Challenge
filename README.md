@@ -44,7 +44,8 @@ Q1. List the following details of each employee: employee number, last name, fir
 
 Q2. List first name, last name, and hire date for employees who were hired in 1986.
 
-![image](https://user-images.githubusercontent.com/111756299/211349621-51244cbe-40b4-4e77-a398-6e0c56a37889.png)
+![image](https://user-images.githubusercontent.com/111756299/211351329-817ccd97-7c67-426a-a232-5b269ff7672a.png)
+
 
 
 
